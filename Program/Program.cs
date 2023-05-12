@@ -24,7 +24,7 @@
 //     Console.Write(" }");
 //     Console.WriteLine();
 // }
-// string[] CreateNewArrayFromThreeCharString(string[] array) 
+// string[] CreateNewArray(string[] array) 
 // {
 //     string s = string.Empty;
 //     int count = 0;
@@ -51,7 +51,7 @@
 // int size = Convert.ToInt32(Console.ReadLine());
 // string[] newArray = CreateStringArray(size);
 // ShowArray(newArray);
-// string[] result = CreateNewArrayFromThreeCharString(newArray);
+// string[] result = CreateNewArray(newArray);
 // Console.WriteLine("Новый массив: ");
 // ShowArray(result);
 
